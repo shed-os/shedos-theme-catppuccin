@@ -1,0 +1,20 @@
+# The GTK theme each palette here was drawn against. The engine falls back to
+# a name built out of the accent when nothing states one, and these four are
+# exactly what that produced — written down so the pairing is a fact of the
+# theme rather than a spelling coincidence, and so a palette whose GTK theme
+# is not named after its accent can still say which one it wants.
+#
+# The file is named for the package that ships it: several theme packages
+# share this directory and only one of them can own a given file name.
+
+[palettes.catppuccin-mocha-blue]
+gtk-theme = "catppuccin-mocha-blue-standard+default"
+
+[palettes.catppuccin-mocha-green]
+gtk-theme = "catppuccin-mocha-green-standard+default"
+
+[palettes.catppuccin-mocha-mauve]
+gtk-theme = "catppuccin-mocha-mauve-standard+default"
+
+[palettes.catppuccin-mocha-pink]
+gtk-theme = "catppuccin-mocha-pink-standard+default"
